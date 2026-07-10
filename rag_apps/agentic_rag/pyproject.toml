@@ -5,7 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "agno>=1.7.6",
+    "agno>=2.6.6",
     "arize-phoenix>=11.13.2",
     "lancedb>=0.24.2",
     "openai>=1.97.1",

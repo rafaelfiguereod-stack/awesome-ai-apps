@@ -1,7 +1,7 @@
 agno==2.1.8
 annotated-types==0.7.0
 anyio==4.11.0
-black==25.9.0
+black==26.5.1
 cachetools==6.2.1
 certifi==2025.10.5
 charset-normalizer==3.4.4

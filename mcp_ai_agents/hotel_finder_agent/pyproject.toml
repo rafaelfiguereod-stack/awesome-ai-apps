@@ -9,7 +9,7 @@ dependencies = [
     "mcp>=1.12.3",
     "openai>=1.98.0",
     "streamlit>=1.47.1",
-    "python-dotenv>=1.0.0",
+    "python-dotenv>=1.2.2",
     "asyncio",
     "typing-extensions>=4.0.0",
 ]
